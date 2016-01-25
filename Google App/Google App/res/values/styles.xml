@@ -2,4 +2,16 @@
 <!--You are editing Google Search's Styles-->
 
 <resources>
+    <style name="qp_grey_icon" parent="@style/qp_icon_no_tint">
+        <item name="android:tint">@android:color/white</item>
+        <item name="android:alpha">1.0</item>
+    </style>
+    <style name="qp_icon" parent="@style/qp_icon_no_tint">
+        <item name="android:tint">@android:color/white</item>
+        <item name="android:alpha">1.0</item>
+    </style>
+    <style name="qp_icon_no_tint">
+        <item name="android:layout_width">@dimen/qp_action_icon_size</item>
+        <item name="android:layout_height">@dimen/qp_action_icon_size</item>
+    </style>
 </resources>
