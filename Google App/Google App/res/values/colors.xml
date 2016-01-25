@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Drawer -->
+    <color name="quantum_panel_text_color">#ffffffff</color>
+    <color name="quantum_panel_bg_color">#B3000000</color>
+
+    <!---App drawer scroll color -->
+    <color name="container_fastscroll_thumb_inactive_color">@android:color/holo_blue_light</color>
+    <color name="container_fastscroll_thumb_active_color">@android:color/holo_blue_light</color>
+    <color name="launcher_accent_color">@android:color/holo_blue_bright</color>
+
+    <!-- Google Search -->
+    <!-- Main Background -->
+    <color name="activity_background">@android:color/background_dark</color>
+    <color name="audio_progress_bar_color">@android:color/background_dark</color>
+    <!-- Card -->
+    <color name="card_bg">#ff171717</color>
+    <color name="card_bg_training">#ff171717</color>
+    <color name="card_background">#ff171717</color>
+    <color name="qp_text_b1">#ffeeeeee</color>
+    <color name="qp_text_b2">#ffffff</color>
+    <color name="qp_text_b3">#ffeeeeee</color>
+    <color name="qp_text_w1">#ffffff</color>
+    <color name="suggest_text_disabled">#eeeeee</color>
+    <color name="suggest_text_inverse">#eeeeee</color>
+    <color name="selected_text_corpus_bar">#eeeeee</color>
+
+    <!--- Google now main card & Search text colors-->
+    <color name="search_plate_text_color">#ffffffff</color>
+    <!--- Search text main -->
+    <color name="search_scrim">#171717</color>
+    <!--- Search bg -->
+    <color name="searchbox_suggestion_divider_background">@android:color/background_dark</color>
+    <color name="secondary_text_normal">@android:color/holo_blue_light</color>
+    <!--- Search Text suggestion highlight-->
+    <color name="suggest_text_normal">#ffffffff</color>
+    <color name="suggestion_primary_text">#ffffffff</color>
+
+
+</resources>
