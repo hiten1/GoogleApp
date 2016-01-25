@@ -3,16 +3,6 @@
     <!-- App Drawer -->
     <color name="quantum_panel_text_color">#ffffffff</color>
     <color name="quantum_panel_bg_color">#B3000000</color>
-
-
-    <color name="widget_text_panel">#10000000</color>
-    <color name="widget_background">#10000000</color>
-    <color name="card_back_background">#10000000</color>
-    <color name="card_image_background">#15000000</color>
-    <color name="tinted_card_title_background">#20000000</color>
-    <color name="contact_pill_background">#10000000</color>
-    <color name="light_grid_background">@android:color/background_dark</color>
-
     <!---App drawer scroll color -->
     <color name="container_fastscroll_thumb_inactive_color">@android:color/holo_blue_light</color>
     <color name="container_fastscroll_thumb_active_color">@android:color/holo_blue_light</color>
