@@ -4,15 +4,40 @@
     <color name="quantum_panel_text_color">#ffffffff</color>
     <color name="quantum_panel_bg_color">#B3000000</color>
 
+
+    <color name="widget_text_panel">#10000000</color>
+    <color name="widget_background">#10000000</color>
+    <color name="card_back_background">#10000000</color>
+    <color name="card_image_background">#15000000</color>
+    <color name="tinted_card_title_background">#20000000</color>
+    <color name="contact_pill_background">#10000000</color>
+    <color name="light_grid_background">@android:color/background_dark</color>
+
     <!---App drawer scroll color -->
     <color name="container_fastscroll_thumb_inactive_color">@android:color/holo_blue_light</color>
     <color name="container_fastscroll_thumb_active_color">@android:color/holo_blue_light</color>
     <color name="launcher_accent_color">@android:color/holo_blue_bright</color>
 
     <!-- Google Search -->
+    <color name="configuration_list_background">@android:color/background_dark</color>
+    <color name="now_space_background">@android:color/background_dark</color>
+    <color name="nowspace_header_bg_color">@android:color/background_dark</color>
+    <color name="qp_blue">@android:color/holo_blue_light</color>
+    <color name="qp_blue_dark">@android:color/holo_blue_dark</color>
+    <color name="recurrence_picker_background">@android:color/background_dark</color>
+    <color name="suggestion_divider_background">@android:color/background_dark</color>
+    <color name="white">@android:color/background_dark</color>
+    <color name="recurrence_bubble_text_normal">#ffeeeeee</color>
+    <color name="recurrence_edit_event_text">@android:color/white</color>
+    <color name="recurrence_edit_event_text_hint">@android:color/white</color>
+    <color name="mini_card_text">#ffffff</color>
+    <color name="mini_card_reminders_text">#ffffff</color>
+    <color name="mini_card_reminder">#eeeeee</color>
+    <color name="widgets_cell_color">@android:color/background_dark</color>
+    <color name="audio_progress_bar_color">@android:color/background_dark</color>
+    <color name="expanded_module_background">@android:color/background_dark</color>
     <!-- Main Background -->
     <color name="activity_background">@android:color/background_dark</color>
-    <color name="audio_progress_bar_color">@android:color/background_dark</color>
     <!-- Card -->
     <color name="card_bg">#ff171717</color>
     <color name="card_bg_training">#ff171717</color>
@@ -24,6 +49,14 @@
     <color name="suggest_text_disabled">#eeeeee</color>
     <color name="suggest_text_inverse">#eeeeee</color>
     <color name="selected_text_corpus_bar">#eeeeee</color>
+    <!-- Drawer -->
+    <color name="qp_drawer_background">@android:color/background_dark</color>
+    <color name="qp_drawer_icon">#ffffff</color>
+    <color name="qp_drawer_selected">@android:color/holo_blue_bright</color>
+    <color name="manage_accounts_text_color">#212121</color>
+    <color name="qp_drawer_text">#ffffff</color>
+    <color name="qp_drawer_text_disabled">#eeeeee</color>
+    <color name="qp_drawer_icon_disabled">#eeeeee</color>
 
     <!--- Google now main card & Search text colors-->
     <color name="search_plate_text_color">#ffffffff</color>
@@ -35,6 +68,7 @@
     <!--- Search Text suggestion highlight-->
     <color name="suggest_text_normal">#ffffffff</color>
     <color name="suggestion_primary_text">#ffffffff</color>
-
-
+    <!--Google Now On Tap Colors-->
+    <color name="go_to_google_now_background">@android:color/background_dark</color>
+    <color name="go_to_google_now_background_ripple">#80222222</color>
 </resources>
